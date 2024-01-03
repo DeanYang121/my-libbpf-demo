@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "bpf_tracing.h": "c",
+        "vmlinux.h": "c",
+        "inet.h": "c",
+        "socket.h": "c",
+        "bpf_endian.h": "c",
+        "numbers": "c"
+    }
+}
